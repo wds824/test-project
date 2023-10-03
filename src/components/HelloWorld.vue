@@ -53,7 +53,6 @@ export default {
 
         .grid-container {
             margin: 20px;
-
             display: grid;
             grid-template-areas:
             'header  header header'
