@@ -44,7 +44,7 @@ export default {
             top: 0;
             width: 100%;
             min-height: 100%;
-            background: url('../assets/background.jpg');
+            background-image: url('../assets/background.jpg');
             background-size: cover;
             content: '';
             display: block;
