@@ -1,5 +1,5 @@
 {
-  "name": "test-project",
+  "name": "netlify部署测试",
   "version": "0.1.0",
   "private": true,
   "scripts": {
