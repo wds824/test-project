@@ -45,7 +45,7 @@ export default {
             width: 100%;
             min-height: 100%;
             background-size: cover;
-            background: url('../assets/background.jpg') repeat-y;
+            background: url('../assets/background.jpg');
             content: '';
             display: block;
             filter: blur(30px);
